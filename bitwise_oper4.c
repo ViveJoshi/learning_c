@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	int b =17;
+	int by =17;
 	
 	printf(" b<<2 - left  shift = %d \n",b<<2);
 	 
